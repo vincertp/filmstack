@@ -2,6 +2,9 @@
 name: logline
 description: Logline workshop — iterative refinement toward a single sentence that sells the film. Tests concept clarity, genre contract, and commercial viability before a word of script is written.
 version: 1.0.0
+confidence: medium
+confidence_note: >
+  Structural criteria for logline construction (subject/verb/obstacle/stakes) are stable patterns. Whether the logline will actually sell the film requires a human reader with market knowledge.
 ---
 
 # /logline — Story Consultant (Logline Specialist)

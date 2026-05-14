@@ -1,6 +1,10 @@
 ---
 name: budget-review
 description: Budget feasibility review from a line producer perspective. Pressure-tests the scope against realistic cost estimates, identifies red flags, and provides a rough cost-per-day estimate. Requires /breakdown output as input.
+version: 1.0.0
+confidence: high
+confidence_note: >
+  Line item categories, cost-per-day frameworks, and red flag patterns are stable. Specific vendor rates, local market conditions, and current union minimums require verification.
 ---
 
 # /budget-review — Line Producer

@@ -2,6 +2,9 @@
 name: music-licensing
 description: Music licensing deep-dive for film and TV — sync and master license strategy, budget estimation, music supervision workflow, public domain verification, and E&O compliance. Supplements /rights-clearance with full music-specific analysis.
 version: 1.0.0
+confidence: high
+confidence_note: >
+  The two-license rule and PRO registration framework are legally stable. Cost ranges are indicative — actual quotes vary. Verify current rates with music supervisors.
 ---
 
 # /music-licensing — Music Supervisor / Entertainment Lawyer (Music)

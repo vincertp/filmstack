@@ -1,6 +1,10 @@
 ---
 name: retro
 description: Production retrospective. Reviews budget variance, schedule drift, creative decisions, and what to do differently. Run at end of pre-production, production, and post-production phases.
+version: 1.0.0
+confidence: high
+confidence_note: >
+  Retrospective framework and variance analysis structure are stable. Production-specific insights require honest input from the production team.
 ---
 
 # /retro — Producer

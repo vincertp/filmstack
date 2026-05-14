@@ -2,6 +2,9 @@
 name: co-production
 description: International co-production structure and treaty eligibility assessment. Maps the financial, creative, and legal requirements for qualifying as an official co-production under bilateral treaties — not a substitute for international entertainment counsel.
 version: 1.0.0
+confidence: high
+confidence_note: >
+  Treaty framework structure and points test logic are stable. Current treaty terms and specific bilateral eligibility require verification with KOFIC, BFI, Telefilm, or Screen Australia directly.
 ---
 
 # /co-production — International Co-Production Consultant

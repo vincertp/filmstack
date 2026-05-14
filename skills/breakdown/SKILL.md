@@ -1,6 +1,10 @@
 ---
 name: breakdown
 description: Scene-by-scene script breakdown for pre-production. Extracts all production elements per scene — cast, locations, props, wardrobe, VFX, special requirements. Output feeds directly into scheduling and budget.
+version: 1.0.0
+confidence: high
+confidence_note: >
+  Industry-standard scene breakdown categories and format are stable. Specific production feasibility for your breakdown requires production team assessment.
 ---
 
 # /breakdown — First Assistant Director

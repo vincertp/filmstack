@@ -1,6 +1,10 @@
 ---
 name: market-comp
 description: Comparable titles analysis for pitching and packaging. Produces "A meets B" framing, box office/streaming comps, budget positioning, and buyer targeting. Use before pitching to investors, studios, or distributors.
+version: 1.0.0
+confidence: medium
+confidence_note: >
+  Formal comparable title identification by genre/budget/platform is pattern-based. Whether the market will receive your film the way comps were received cannot be predicted.
 ---
 
 # /market-comp — Development Executive

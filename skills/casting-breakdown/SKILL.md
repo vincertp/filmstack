@@ -1,6 +1,10 @@
 ---
 name: casting-breakdown
 description: Character breakdowns in professional format for casting director submission. Extracts all roles from script with age range, character description, and special requirements. Ready for Breakdown Express or Actors Access submission.
+version: 1.0.0
+confidence: high
+confidence_note: >
+  Breakdown Express format and submission conventions are stable. Casting director relationships and current market appetite for specific roles require human knowledge.
 ---
 
 # /casting-breakdown — Casting Director

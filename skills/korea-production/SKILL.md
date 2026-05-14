@@ -2,6 +2,9 @@
 name: korea-production
 description: Korean film production guide — KOFIC funding programs, BIFF/BFFF strategy, Korean OTT landscape (Netflix KR, Wavve, Tving, Watcha), co-production frameworks, and Korea-Taiwan collaboration pathways.
 version: 1.0.0
+confidence: high
+confidence_note: >
+  KOFIC program structure, national film points test, and BIFF section descriptions reflect established policy. Current cycle deadlines and review priorities require verification at kofic.or.kr.
 ---
 
 # /korea-production

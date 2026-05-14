@@ -2,6 +2,9 @@
 name: pitch-deck
 description: Investor and distributor pitch deck structure and review. Produces or audits a pitch deck covering hook, story, characters, market positioning, team, and the ask — the visual presentation document for financing and distribution pitches.
 version: 1.0.0
+confidence: medium
+confidence_note: >
+  Pitch deck structure and investor/distributor expectations are stable patterns. Whether the pitch will land in a room requires a human to read the room.
 ---
 
 # /pitch-deck — Story Executive / Packaging Specialist

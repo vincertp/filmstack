@@ -2,6 +2,9 @@
 name: press-kit
 description: EPK (Electronic Press Kit) structure for festival submissions, theatrical release, and press outreach. Produces or audits the complete press kit — production notes, cast bios, director statement, technical specs, and asset list — for media and programmers.
 version: 1.0.0
+confidence: high
+confidence_note: >
+  EPK structure and press kit format conventions are stable. Asset acquisition and approval processes require production team management.
 ---
 
 # /press-kit — Unit Publicist / Festival Submissions Coordinator

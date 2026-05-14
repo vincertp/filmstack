@@ -2,6 +2,9 @@
 name: distribution-deal
 description: Distribution deal term sheet review — minimum guarantee, P&A commitment, holdback windows, net profits waterfall, territory splits, reversion rights. Flags predatory terms before you sign.
 version: 1.0.0
+confidence: high
+confidence_note: >
+  Deal structure norms, waterfall mechanics, and predatory term patterns reflect stable industry standards. Current market MG ranges and specific platform requirements change — verify with current sources.
 ---
 
 # /distribution-deal

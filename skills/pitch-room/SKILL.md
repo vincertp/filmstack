@@ -1,6 +1,10 @@
 ---
 name: pitch-room
 description: Story development session — six forcing questions that challenge your concept before you write a word. Start here. Outputs a creative brief that feeds into all downstream skills.
+version: 1.0.0
+confidence: medium
+confidence_note: >
+  The forcing questions reflect real development executive concerns. Whether your answers are sufficient cannot be assessed by this skill.
 ---
 
 # /pitch-room — Story Executive

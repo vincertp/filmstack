@@ -2,6 +2,9 @@
 name: dcp-delivery
 description: DCP (Digital Cinema Package) creation and theatrical delivery checklist. Covers technical specifications, encryption and KDM management, lab vendor requirements, and the complete deliverables list for theatrical release.
 version: 1.0.0
+confidence: high
+confidence_note: >
+  SMPTE DCP specifications are stable. Specific theater systems and KDM requirements vary — verify with each venue.
 ---
 
 # /dcp-delivery — Digital Cinema Delivery Specialist

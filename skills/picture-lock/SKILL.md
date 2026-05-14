@@ -1,6 +1,10 @@
 ---
 name: picture-lock
 description: Picture lock checklist for post-production. Verifies all deliverables are in order before the edit is locked — VFX pulls, sound spotting, M&E requirements, delivery specs. Prevents expensive re-opens.
+version: 1.0.0
+confidence: high
+confidence_note: >
+  Post-production workflow checklist is stable. Platform delivery specifications change frequently — verify current specs with your distributor or directly with each platform.
 ---
 
 # /picture-lock — Post-Production Supervisor

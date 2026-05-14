@@ -154,15 +154,26 @@ Claude: IRON LAW: No fixes without diagnosis first.
 
 | Doc | What it covers |
 |---|---|
+| [Calibration Guide](CALIBRATION.md) | What filmstack can and cannot do — read this first |
 | [Skill Deep Dives](docs/skills.md) | Philosophy and workflow for every skill |
 | [Architecture](ARCHITECTURE.md) | Design decisions and pipeline logic |
 | [Contributing](CONTRIBUTING.md) | How to add skills or improve existing ones |
 
-## Important notes
+## How filmstack works — and where it stops
 
-**This is a creative and analytical tool, not a legal tool.** `/rights-clearance` and `/wga-check` produce preliminary checklists — they are not substitutes for qualified entertainment lawyers or labor consultants. Always verify with professionals before production.
+filmstack skills divide into two tiers.
 
-**Hollywood terminology** in this toolkit reflects US industry standards. International co-productions will have different union agreements, clearance requirements, and distribution norms.
+**Tier 1 — Institutional Knowledge:** Skills that encode verifiable industry standards — deal structures, union rules, funding frameworks, delivery specs, festival eligibility. The AI applies known frameworks to your specific situation. High confidence on the framework; always verify current rates and regulations against primary sources.
+
+**Tier 2 — Creative Assessment:** Skills that work with aesthetic material — script structure, loglines, pitches, festival routing. These skills do not produce verdicts. They measure what is measurable, surface patterns that correlate with problems, and ask the questions a professional would ask. They prepare you for a human conversation. They do not replace it.
+
+See [CALIBRATION.md](CALIBRATION.md) for a complete breakdown of what each skill can and cannot do.
+
+**Development is not a pipeline.** The stage progression (Development → Pre-Production → ...) describes the order of production activities, not how development actually works. Real development is iterative: you loop between `/logline` and `/coverage` and `/script-doctor` as many times as the script requires. Use filmstack in the order the work demands, not in the order the table suggests.
+
+**This is not a legal tool.** `/rights-clearance`, `/wga-check`, `/distribution-deal`, and `/music-licensing` produce preliminary analyses — they are not substitutes for qualified entertainment lawyers, labor consultants, or music supervisors. Always verify with professionals before production.
+
+**Hollywood terminology** reflects US industry standards. `/taiwan-production` and `/korea-production` cover Asia-Pacific specifics. International co-productions will have different union agreements, clearance requirements, and distribution norms not covered by other skills.
 
 ## License
 

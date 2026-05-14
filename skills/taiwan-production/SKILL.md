@@ -2,6 +2,9 @@
 name: taiwan-production
 description: Taiwan film and TV production context — government funding landscape (文化部輔導金, TAICCA), national film definition, Golden Horse strategy, OTT platform landscape, and co-production considerations specific to Taiwan. Supplements other filmstack skills for Taiwan-based productions.
 version: 1.0.0
+confidence: high
+confidence_note: >
+  Cultural funding framework, TAICCA structure, and national film qualification criteria reflect established policy. Application deadlines and current cycle priorities require verification at culture.tw and taicca.tw.
 ---
 
 # /taiwan-production — Taiwan Production Consultant

@@ -1,6 +1,10 @@
 ---
 name: rights-clearance
 description: Pre-clearance scan for E&O (Errors & Omissions) insurance eligibility. Identifies music, life rights, trademark, and underlying rights exposure before distribution. This is a checklist tool — not a substitute for an entertainment lawyer.
+version: 1.0.0
+confidence: high
+confidence_note: >
+  E&O pre-check categories and clearance types are stable. Actual legal opinion on specific risk requires a qualified entertainment lawyer.
 ---
 
 # /rights-clearance — Entertainment Rights Consultant

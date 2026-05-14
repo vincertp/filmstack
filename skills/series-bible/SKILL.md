@@ -2,6 +2,9 @@
 name: series-bible
 description: TV series bible structure and completeness check. Produces or audits a series bible covering premise, characters, world, episode concepts, tone, and ongoing potential — the foundational document for pitching a television series.
 version: 1.0.0
+confidence: medium
+confidence_note: >
+  Bible structure and format conventions are stable. Whether the story world and characters are compelling requires a human reader.
 ---
 
 # /series-bible — TV Writer / Showrunner

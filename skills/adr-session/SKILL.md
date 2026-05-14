@@ -2,6 +2,9 @@
 name: adr-session
 description: ADR (Automated Dialogue Replacement) session preparation checklist. Identifies which scenes require ADR, prepares the cue sheet, and structures the session for efficiency — from production sound review through final delivery.
 version: 1.0.0
+confidence: high
+confidence_note: >
+  ADR cue sheet format, scheduling conventions, and studio checklist are stable. Session-specific technical requirements vary by facility.
 ---
 
 # /adr-session — Post-Production Sound Supervisor

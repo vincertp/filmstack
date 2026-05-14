@@ -1,6 +1,10 @@
 ---
 name: festival-strategy
 description: Film festival submission strategy based on content type, budget, and goal (awards vs. distribution). Recommends a tiered festival route with submission timing, entry fees, and realistic outcome expectations.
+version: 1.0.0
+confidence: medium
+confidence_note: >
+  Festival eligibility criteria and known programming patterns are stable. Festival acceptance cannot be predicted. Programmer priorities change each cycle.
 ---
 
 # /festival-strategy — Sales Agent

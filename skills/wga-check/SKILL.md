@@ -1,6 +1,10 @@
 ---
 name: wga-check
 description: WGA and SAG-AFTRA compliance preliminary scan. Identifies triggers for union agreements, minimum compensation requirements, residual obligations, and credit arbitration. Not a substitute for entertainment labor counsel.
+version: 1.0.0
+confidence: high
+confidence_note: >
+  WGA/SAG-AFTRA structural rules and credit arbitration triggers are stable. Verify current minimum wage rates at wga.org and sagaftra.org — rates update regularly.
 ---
 
 # /wga-check — Labor Compliance Consultant
