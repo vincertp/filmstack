@@ -7,7 +7,7 @@
 
 它把 Claude Code（或任何支援 SKILL.md 標準的 AI 代理）變成一個虛擬製作團隊：一位找出你情節破綻的故事編輯、一位用真實好萊塢標準評估劇本的讀稿人、一位壓力測試預算的製片主任、一位掃描法律風險的版權顧問，以及一位把你的完片導向正確市場的院線策略師。
 
-**12 個技能。7 個製作階段。從概念到發行的完整流程。**
+**15 個技能。7 個製作階段。從概念到發行的完整流程。**
 
 ---
 
@@ -33,6 +33,9 @@ filmstack 遵循好萊塢實際的七階段製作流程：
 | **後製** | `/picture-lock` | 後製監督 | 畫面鎖定清單——交付規格、VFX 拉出清單、聲音對位、M&E 需求 |
 | **發行** | `/festival-strategy` | 版權代理 | 依內容類型、預算與目標（獎項 vs. 發行）規劃影展路線 |
 | **發行** | `/rights-clearance` | 娛樂法律顧問 | E&O 保險前置審查——音樂授權、人物肖像權、商標風險 |
+| **開發** | `/logline` | 故事顧問 | Logline 工作坊——迭代精煉，直到找到那句能賣出電影的句子 |
+| **開發** | `/series-bible` | 電視編劇／監製人 | 影集聖經結構——前提、人物、季弧、集數概念、持續潛力 |
+| **發行** | `/pitch-deck` | 包裝專員 | 投資人與發行商提案簡報——9 張投影片結構與七項測試 |
 | **進階工具** | `/wga-check` | 勞動合規顧問 | WGA/SAG-AFTRA 合規掃描——最低工資標準、殘片費、署名仲裁觸發條件 |
 | **進階工具** | `/retro` | 製片人 | 製作回顧——預算差異分析、拍攝進度偏移、下次改進方向 |
 
@@ -67,10 +70,19 @@ rm -rf .claude/skills/filmstack/.git
 
 ```
 ## filmstack
-可用技能：/pitch-room、/coverage、/script-doctor、/market-comp、
-/breakdown、/casting-breakdown、/budget-review、/picture-lock、
+可用技能：/pitch-room、/coverage、/script-doctor、/market-comp、/logline、/series-bible、
+/pitch-deck、/breakdown、/casting-breakdown、/budget-review、/picture-lock、
 /festival-strategy、/rights-clearance、/wga-check、/retro。
 ```
+
+
+### 作為 Cowork Plugin 安裝
+
+filmstack 已封裝為 Claude Cowork plugin。在 Cowork 中，透過 Plugin 選單，輸入以下 repo URL 安裝：
+
+
+
+安裝後 15 個技能立即以斜線指令形式可用。
 
 ### 其他 AI 代理（Codex、Gemini CLI、Cursor）
 

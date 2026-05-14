@@ -5,9 +5,6 @@ filmstack is a collection of Markdown skill files. Contributing means writing, i
 ## What we need
 
 **New skills** — workflows that don't exist yet:
-- `/pitch-deck` — investor/distributor pitch deck structure and review
-- `/logline` — logline workshop (iterate toward a strong single sentence)
-- `/series-bible` — TV series bible structure and completeness check
 - `/co-production` — international co-production structure and treaty eligibility
 - `/adr-session` — ADR (Automated Dialogue Replacement) preparation checklist
 - `/dcp-delivery` — DCP creation and theatrical delivery checklist

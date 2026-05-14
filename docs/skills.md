@@ -163,3 +163,53 @@ ATL costs are typically negotiated; BTL costs are more predictable and form the 
 **Philosophy**: A retrospective that produces vague recommendations is worse than no retrospective. "Communication could be better" teaches nothing. "The location was scouted 3 days before the shoot, leaving the 1st AD no time to adjust the schedule for the discovered power access limitation — next time, lock all locations 14 days before shoot" is a retrospective that produces change.
 
 **Phase retrospectives**: filmstack recommends running `/retro` at the end of each major production phase, not just at project completion. A development retro before pre-production catches mistakes while they can still be addressed. A production retro at wrap provides data while everyone's memory is fresh.
+
+---
+
+## /logline
+
+**Role**: Story Consultant (Logline Specialist)
+
+**Philosophy**: A logline is not a summary — it is a sales instrument. The discipline of writing a strong logline forces a kind of clarity that cannot be faked: if you cannot describe your film in one sentence that creates curiosity, you don't fully know what your film is yet. `/logline` weaponizes this discipline.
+
+**The five failure modes**: The skill is structured around five specific ways loglines fail (plot summary, theme statement, missing stakes, generic protagonist, missing antagonist logic). This taxonomy is more useful than general advice because it gives the writer a specific diagnosis — "your logline is a theme statement" is actionable in a way that "your logline isn't working" isn't.
+
+**Three candidates**: The skill produces three versions (genre-forward, character-forward, stakes-forward) rather than one "correct" logline. This is intentional: different pitching contexts favor different framings. A studio pitch favors genre clarity; a festival programmer pitch may favor character specificity.
+
+**The 40-word limit**: Industry standard for pitch loglines. Elevator pitches are literally that — the time it takes an elevator to go between floors. If the logline can't be said aloud in under 20 seconds, it fails in practice regardless of how good it reads on paper.
+
+**Output**: Appends logline candidates to `.filmstack/creative-brief.md` — the shared context document that all development-phase skills read.
+
+---
+
+## /series-bible
+
+**Role**: TV Writer / Showrunner
+
+**Industry context**: A series bible is the foundational document for pitching a television series. It is longer and more detailed than a pitch deck, denser than a treatment, and distinct from a pilot script. Networks, streamers, and production companies use the bible to assess whether a concept has series potential — whether the world is rich enough, the characters complex enough, and the conflicts renewable enough to sustain multiple seasons.
+
+**Format determines everything**: The bible requirements differ significantly between broadcast, cable, and streaming. Broadcast requires a procedural element (something resolved each week); streaming tolerates fully serialized storytelling; limited series doesn't need to prove ongoing potential. `/series-bible` establishes format first and adjusts requirements accordingly.
+
+**The five bible killers**: The most important diagnostic function of the skill. "The Feature Trapped in a TV Show" — a story that resolves everything in 90 minutes — is the most common development problem for writers transitioning from film. A biblical killer identified before pitching saves months of wasted development.
+
+**Ongoing potential section**: The clearest test for whether a concept is truly a series concept. If Season 2 cannot be described convincingly in a paragraph, the concept may be a limited series or a film. This is not a failure — it is a clarification that allows the writer to pitch the right format.
+
+**Output**: Saves to `.filmstack/series-bible-[date].md`. Version by date — the bible evolves throughout development.
+
+---
+
+## /pitch-deck
+
+**Role**: Story Executive / Packaging Specialist
+
+**Industry context**: The pitch deck is the document that gets you in the room — and the document that keeps you out of it if it's wrong for the audience. A deck designed for a studio executive looks different from a deck for a private equity investor, which looks different from a deck for an international co-production partner. `/pitch-deck` establishes audience first.
+
+**The deck vs. the bible**: The most important distinction in development documentation. A series bible is a writer's document — dense, specific, intended for people who need to understand the show deeply. A pitch deck is a sales document — visual, selective, intended for people deciding whether to take a second meeting. Confusing the two is a common and expensive mistake.
+
+**The nine slides**: The structure (Hook → Logline → Story → Why Now → Characters → Visual World → Comps → Team → Ask) is designed around the psychology of a pitch meeting. The hook creates curiosity before the buyer knows anything about the project. The "Why Now" slide answers the question every buyer is implicitly asking: why should this get made now, on my slate, with my resources?
+
+**The Ask slide**: The most commonly weakened slide in independent film pitch decks. "We're looking for partners" is not an ask — it is an invitation to be ignored. Specific asks ("$2.4M for 50% equity") communicate preparation and seriousness. Vague asks communicate inexperience. The skill consistently pushes for specificity on this slide.
+
+**Visual execution note**: `/pitch-deck` produces the content structure and copy. Visual design — layout, typography, image selection — requires a human designer. The skill is explicit about this boundary.
+
+**Output**: Saves to `.filmstack/pitch-deck-[date].md`. The deck itself requires design software (Keynote, PowerPoint, Google Slides, Canva) — the skill outputs the content and structure.

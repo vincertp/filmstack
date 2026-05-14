@@ -1,0 +1,29 @@
+{
+  "name": "filmstack",
+  "version": "1.0.0",
+  "description": "AI workflow system for film and TV development — full pipeline from logline to distribution. Turns Claude into a virtual production team: script reader, story editor, 1st AD, line producer, casting director, rights consultant, and festival strategist.",
+  "author": {
+    "name": "vincertp",
+    "url": "https://github.com/vincertp/filmstack"
+  },
+  "homepage": "https://github.com/vincertp/filmstack",
+  "repository": "https://github.com/vincertp/filmstack",
+  "license": "MIT",
+  "keywords": [
+    "film",
+    "television",
+    "screenplay",
+    "script",
+    "development",
+    "production",
+    "hollywood",
+    "coverage",
+    "breakdown",
+    "budget",
+    "casting",
+    "festival",
+    "rights-clearance",
+    "wga",
+    "sag-aftra"
+  ]
+}
