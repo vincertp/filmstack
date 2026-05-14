@@ -1,5 +1,7 @@
 # filmstack
 
+[繁體中文](README.zh-TW.md) | English
+
 > "Development is the process of turning money into scripts, and production is the process of turning scripts into movies."
 > — William Goldman
 
