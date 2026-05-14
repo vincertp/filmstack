@@ -42,6 +42,7 @@ Each skill feeds into the next. `/pitch-room` writes a creative brief that `/cov
 | **Post-Production** | `/dcp-delivery` | Digital Cinema Specialist | DCP creation, encryption, KDM management, theatrical delivery checklist |
 | **Distribution** | `/co-production` | Co-Production Consultant | International treaty eligibility, points test, financial split, territory benefits |
 | **Distribution** | `/press-kit` | Unit Publicist | EPK structure — synopsis, director statement, production notes, asset list |
+| **Taiwan** | `/taiwan-production` | Taiwan Production Consultant | 文化部輔導金, TAICCA, 金馬影展 strategy, OTT landscape, co-production eligibility |
 | **Power Tools** | `/wga-check` | Labor Consultant | WGA/SAG-AFTRA compliance scan — minimums, residuals, credit arbitration triggers |
 | **Power Tools** | `/retro` | Producer | Production retrospective — budget variance, schedule drift, what to do differently |
 
@@ -63,7 +64,7 @@ Each skill feeds into the next. `/pitch-room` writes a creative brief that `/cov
 
 Open Claude Code and paste:
 
-> Install filmstack: run `git clone https://github.com/YOUR_USERNAME/filmstack.git ~/.claude/skills/filmstack` then add a "filmstack" section to CLAUDE.md listing the available skills: /pitch-room, /coverage, /script-doctor, /market-comp, /logline, /series-bible, /pitch-deck, /breakdown, /casting-breakdown, /budget-review, /picture-lock, /adr-session, /dcp-delivery, /festival-strategy, /co-production, /press-kit, /rights-clearance, /wga-check, /retro.
+> Install filmstack: run `git clone https://github.com/YOUR_USERNAME/filmstack.git ~/.claude/skills/filmstack` then add a "filmstack" section to CLAUDE.md listing the available skills: /pitch-room, /coverage, /script-doctor, /market-comp, /logline, /series-bible, /pitch-deck, /breakdown, /casting-breakdown, /budget-review, /picture-lock, /adr-session, /dcp-delivery, /festival-strategy, /co-production, /press-kit, /taiwan-production, /rights-clearance, /wga-check, /retro.
 
 ### Add to a specific project
 
@@ -78,7 +79,7 @@ Then add to your project's `CLAUDE.md`:
 ## filmstack
 Available skills: /pitch-room, /coverage, /script-doctor, /market-comp,
 /breakdown, /casting-breakdown, /budget-review, /picture-lock,
-/festival-strategy, /rights-clearance, /wga-check, /retro.
+/festival-strategy, /taiwan-production, /rights-clearance, /wga-check, /retro.
 ```
 
 ### Install as Cowork Plugin
@@ -87,7 +88,7 @@ filmstack is packaged as a Claude Cowork plugin. In Cowork, use the Plugin menu 
 
 
 
-All 19 skills become available immediately as slash commands.
+All 20 skills become available immediately as slash commands.
 
 ### Other agents (Codex, Gemini CLI, Cursor)
 

@@ -12,11 +12,15 @@ filmstack is a collection of Markdown skill files. Contributing means writing, i
 - More accurate (union agreements change — flag outdated rates)
 - More complete (are there clearance categories /rights-clearance is missing?)
 
-**International adaptations** — filmstack is currently US-centric:
-- UK: BECTU, Equity, WGGB agreements
-- Canada: ACTRA, DGC, WGC agreements
-- Australia: Equity Australia, AWG
-- Taiwan/Asia: Local production contexts
+**International adaptations** — filmstack started US-centric. Completed:
+- Taiwan: `/taiwan-production` — 文化部輔導金, TAICCA, 金馬獎 strategy, OTT landscape ✓
+
+Still needed:
+- UK: BFI Film Fund, BECTU, Equity, WGGB agreements
+- Canada: Telefilm, ACTRA, DGC, WGC agreements
+- Australia: Screen Australia, Equity Australia, AWG
+- Korea: KOFIC, BIFF, Korea OTT landscape
+- Europe: Eurimages, MEDIA Programme
 
 ## How to add a skill
 

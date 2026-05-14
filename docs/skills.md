@@ -277,3 +277,19 @@ ATL costs are typically negotiated; BTL costs are more predictable and form the 
 **Director statement failures**: The skill identifies specific failure patterns for director statements — the most common being a statement that describes what the film is about rather than why the director made it. Programmers read director statements to understand the filmmaker's intent and voice. A statement that sounds like a synopsis is a missed opportunity to create a human connection with the programmer.
 
 **Output**: Saves to `.filmstack/press-kit-[date].md`. Version control is important — the submission EPK, selected film kit, and theatrical kit are different documents at different stages.
+
+---
+
+## /taiwan-production
+
+**Role**: Taiwan Production Consultant
+
+**Philosophy**: 台灣電影產業的補助邏輯與好萊塢的工會義務體系截然不同。文化部輔導金是申請制政府補助，有明確截止日、競爭性審查，以及文化價值評估維度；這跟 SAG-AFTRA 最低工資義務（一旦觸發就必須遵守）的運作邏輯完全不同。`/taiwan-production` 不是其他 skills 的「翻譯版」，而是獨立的知識域，處理台灣製作環境特有的問題。
+
+**國片認定的核心作用**: 通過國產電影片認定是申請文化部輔導金的前提條件，但認定條件（創作人員國籍比例、資金來源）可能與國際合製的需求產生張力。Skill 把這個張力明確點出，讓製作人在結構合製方案時就預見潛在問題。
+
+**TAICCA 投資 vs. 補助的區別**: 這是台灣業界常見的混淆點。TAICCA 的文化內容投資基金是「投資」（有退場機制、需還本分潤），不是「補助」。`/taiwan-production` 把兩者的性質差異說清楚，避免製作人誤以為拿到 TAICCA 資金就等同於政府補助。
+
+**金馬與國際影展的時序策略**: 金馬影展希望台灣電影優先在台灣有首映機會，這與走 Sundance / Berlin 等大展的國際策略有潛在衝突。Skill 把這個張力作為策略考量點提出，而非規定答案——因為正確選擇取決於每個計畫的具體目標。
+
+**Output**: 儲存至 `.filmstack/taiwan-production-[date].md`。內容以繁體中文書寫，符合台灣業界的工作語言習慣。
