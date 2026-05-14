@@ -213,3 +213,67 @@ ATL costs are typically negotiated; BTL costs are more predictable and form the 
 **Visual execution note**: `/pitch-deck` produces the content structure and copy. Visual design — layout, typography, image selection — requires a human designer. The skill is explicit about this boundary.
 
 **Output**: Saves to `.filmstack/pitch-deck-[date].md`. The deck itself requires design software (Keynote, PowerPoint, Google Slides, Canva) — the skill outputs the content and structure.
+
+---
+
+## /co-production
+
+**Role**: International Co-Production Consultant
+
+**Industry context**: International co-production is one of the most misunderstood concepts in independent film financing. Most productions that call themselves "co-productions" are actually co-financings — money from multiple countries, but the film is only "domestic" in one. The distinction matters enormously for subsidy eligibility, tax credits, and distributor obligations.
+
+**The points test**: Most bilateral treaties use a points system that assigns weighted values to key creative roles based on nationality. A director is typically worth 3 points, a lead actor 2 points. If the creative team is dominated by one nationality, treaty qualification requires deliberate casting and hiring decisions — which can create tension with purely creative choices.
+
+**Treaty status verification**: The skill explicitly warns that treaty status changes with diplomatic relations. China-Canada and China-Australia treaties have both been affected by geopolitical developments. No skill can substitute for verifying current treaty status with the administering body (CAVCO, BFI, Screen Australia, KOFIC) at the time of the deal.
+
+**Taiwan note**: Taiwan has a limited bilateral treaty network. Most "Taiwan co-productions" are technically co-financings — a distinction that affects TAICCA subsidy eligibility and how the film is classified in each territory.
+
+**Output**: Saves to `.filmstack/co-production-[date].md`. The explicit disclaimer that entertainment counsel is required in all territories is non-removable.
+
+---
+
+## /adr-session
+
+**Role**: Post-Production Sound Supervisor
+
+**Industry context**: ADR (Automated Dialogue Replacement) is one of the most preparation-dependent sessions in post-production. An actor in an ADR studio watching themselves onscreen from six months ago, trying to match lip movements, emotional performance, and acoustic environment simultaneously, in a dead-acoustic isolation booth — this is technically and emotionally demanding work. Preparation determines whether the session produces usable material or expensive pickups.
+
+**The cue sheet as the session**: The ADR cue sheet is the session. Every ambiguity in the cue sheet (wrong scene number, missing timecode, unclear line change) costs time in the studio. The skill is built around producing a complete, unambiguous cue sheet before any talent is booked.
+
+**Line changes and WGA**: Any dialogue change from the original script on a WGA production requires writer approval. This is not optional. The skill flags line changes explicitly because they are easy to overlook during the speed of post-production and expensive to discover after the session.
+
+**Director presence rule**: The skill explicitly states that the director must be in the ADR session and that the session should be rescheduled if they cannot attend. This is because ADR performance decisions require directorial judgment — a sound supervisor cannot approve a performance as a substitute for the director.
+
+**Output**: Saves to `.filmstack/adr-session-[date].md`. The cue sheet format is designed to be used directly in the studio session.
+
+---
+
+## /dcp-delivery
+
+**Role**: Digital Cinema Delivery Specialist
+
+**Industry context**: A DCP (Digital Cinema Package) is not a video file. It is an encrypted, format-specific package that can only be played by DCI-compliant projectors with the correct KDM for that specific projector, on that specific date. The technical requirements are exact, the deadlines are hard, and the consequences of getting it wrong at a festival premiere are irreversible.
+
+**The KDM system**: KDMs (Key Delivery Messages) are time-locked decryption keys specific to individual projectors. A KDM that expires at 23:59 cannot play a screening that begins at 23:45 and runs past midnight. KDM validity dates are among the most common causes of screening failures at festivals. The skill builds KDM management — collecting projector certificates, generating KDMs with correct validity windows, confirming delivery — into the checklist explicitly.
+
+**Drive format**: ext2/ext3 filesystem for physical delivery, not NTFS or macOS Extended. Most DCP servers run Linux. This is the second most common cause of premiere-day failures. The skill states it explicitly because it is easy to format a drive in whatever the operating system defaults to.
+
+**QC at the venue**: A DCP that has not been QC'd on the actual projector has not been delivered. The skill defines "delivery complete" as "the projectionist has confirmed ingest, KDM load, and test playback" — not as "we shipped the drive."
+
+**Output**: Saves to `.filmstack/dcp-delivery-[date].md`. The delivery schedule section tracks each venue independently because each projector requires its own KDM.
+
+---
+
+## /press-kit
+
+**Role**: Unit Publicist / Festival Submissions Coordinator
+
+**Industry context**: A press kit is a working document for journalists and programmers — not a vanity package for the production. The distinction matters because productions tend to write press kits for themselves (celebrating the film they made) while journalists and programmers read press kits for information (what is this film, why should I care, what do I need to write about it or screen it).
+
+**Submission EPK vs. full press kit**: The skill distinguishes clearly between these two different documents. Festival submission EPKs should be minimal — a 40-page press kit sent to a festival submission inbox will not be read. Full press kits for press and distributors need to be complete. The skill handles both, and asks the user to identify which they need before building.
+
+**Stills approval**: The most commonly missed element in independent film press kits. SAG-AFTRA productions and many actor contracts require individual still approval before publication. Releasing un-approved stills creates legal exposure and damages relationships with talent representation. The skill makes stills approval status a required field, not an optional one.
+
+**Director statement failures**: The skill identifies specific failure patterns for director statements — the most common being a statement that describes what the film is about rather than why the director made it. Programmers read director statements to understand the filmmaker's intent and voice. A statement that sounds like a synopsis is a missed opportunity to create a human connection with the programmer.
+
+**Output**: Saves to `.filmstack/press-kit-[date].md`. Version control is important — the submission EPK, selected film kit, and theatrical kit are different documents at different stages.

@@ -5,10 +5,6 @@ filmstack is a collection of Markdown skill files. Contributing means writing, i
 ## What we need
 
 **New skills** — workflows that don't exist yet:
-- `/co-production` — international co-production structure and treaty eligibility
-- `/adr-session` — ADR (Automated Dialogue Replacement) preparation checklist
-- `/dcp-delivery` — DCP creation and theatrical delivery checklist
-- `/press-kit` — EPK (Electronic Press Kit) structure for festival submissions
 
 **Improved existing skills** — the current skills are v1. They can be:
 - More specific (more precise page count conventions, more current union rates)

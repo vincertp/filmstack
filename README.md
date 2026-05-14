@@ -9,7 +9,7 @@
 
 It turns Claude Code (or any agent supporting the SKILL.md standard) into a virtual production team: a story editor who finds your plot holes, a line producer who pressure-tests your schedule, a script reader who gives you real Hollywood coverage, a rights clearance officer who scans for legal exposure, and a festival strategist who routes your finished film to the right markets.
 
-**15 skills. 7 production stages. Full pipeline from logline to distribution.**
+**19 skills. 7 production stages. Full pipeline from logline to distribution.**
 
 ---
 
@@ -38,6 +38,10 @@ Each skill feeds into the next. `/pitch-room` writes a creative brief that `/cov
 | **Development** | `/logline` | Story Consultant | Logline workshop — iterative refinement toward a single sentence that sells the film |
 | **Development** | `/series-bible` | TV Writer / Showrunner | TV series bible structure — premise, characters, season arc, episode concepts, ongoing potential |
 | **Distribution** | `/pitch-deck` | Packaging Specialist | Investor and distributor pitch deck — 9-slide structure with seven-test review |
+| **Production** | `/adr-session` | Post Sound Supervisor | ADR session prep — cue sheet, actor scheduling, studio checklist, KDM-free |
+| **Post-Production** | `/dcp-delivery` | Digital Cinema Specialist | DCP creation, encryption, KDM management, theatrical delivery checklist |
+| **Distribution** | `/co-production` | Co-Production Consultant | International treaty eligibility, points test, financial split, territory benefits |
+| **Distribution** | `/press-kit` | Unit Publicist | EPK structure — synopsis, director statement, production notes, asset list |
 | **Power Tools** | `/wga-check` | Labor Consultant | WGA/SAG-AFTRA compliance scan — minimums, residuals, credit arbitration triggers |
 | **Power Tools** | `/retro` | Producer | Production retrospective — budget variance, schedule drift, what to do differently |
 
@@ -59,7 +63,7 @@ Each skill feeds into the next. `/pitch-room` writes a creative brief that `/cov
 
 Open Claude Code and paste:
 
-> Install filmstack: run `git clone https://github.com/YOUR_USERNAME/filmstack.git ~/.claude/skills/filmstack` then add a "filmstack" section to CLAUDE.md listing the available skills: /pitch-room, /coverage, /script-doctor, /market-comp, /logline, /series-bible, /pitch-deck, /breakdown, /casting-breakdown, /budget-review, /picture-lock, /festival-strategy, /rights-clearance, /wga-check, /retro.
+> Install filmstack: run `git clone https://github.com/YOUR_USERNAME/filmstack.git ~/.claude/skills/filmstack` then add a "filmstack" section to CLAUDE.md listing the available skills: /pitch-room, /coverage, /script-doctor, /market-comp, /logline, /series-bible, /pitch-deck, /breakdown, /casting-breakdown, /budget-review, /picture-lock, /adr-session, /dcp-delivery, /festival-strategy, /co-production, /press-kit, /rights-clearance, /wga-check, /retro.
 
 ### Add to a specific project
 
@@ -83,7 +87,7 @@ filmstack is packaged as a Claude Cowork plugin. In Cowork, use the Plugin menu 
 
 
 
-All 15 skills become available immediately as slash commands.
+All 19 skills become available immediately as slash commands.
 
 ### Other agents (Codex, Gemini CLI, Cursor)
 
