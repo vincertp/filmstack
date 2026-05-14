@@ -14,13 +14,25 @@ filmstack is a collection of Markdown skill files. Contributing means writing, i
 
 **International adaptations** — filmstack started US-centric. Completed:
 - Taiwan: `/taiwan-production` — 文化部輔導金, TAICCA, 金馬獎 strategy, OTT landscape ✓
+- Korea: `/korea-production` — KOFIC, BIFF/APM, OTT landscape, Korea-Taiwan co-production ✓
 
 Still needed:
 - UK: BFI Film Fund, BECTU, Equity, WGGB agreements
 - Canada: Telefilm, ACTRA, DGC, WGC agreements
 - Australia: Screen Australia, Equity Australia, AWG
-- Korea: KOFIC, BIFF, Korea OTT landscape
-- Europe: Eurimages, MEDIA Programme
+- Europe: Eurimages, MEDIA Programme, CNC (France)
+
+**Distribution and legal skills** — Completed:
+- Music licensing: `/music-licensing` — two-license rule, sync/master clearance, PRO registration, cue sheets ✓
+- Distribution deal review: `/distribution-deal` — MG, P&A commitment, holdback windows, net profits waterfall ✓
+
+Still needed:
+- Completion bond: bond requirements by budget tier, lender approval process, bonding company relationships
+- Production legal: option agreements, chain of title, producer agreements, rights acquisition
+
+**Advanced production skills** — Still needed:
+- Writers' room: TV writers' room structure, story breaking, outline process, WGA minimums for staff writers
+- Showrunner handoff: transitioning from showrunner to network/platform, production bible handoff
 
 ## How to add a skill
 

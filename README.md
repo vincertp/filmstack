@@ -9,7 +9,7 @@
 
 It turns Claude Code (or any agent supporting the SKILL.md standard) into a virtual production team: a story editor who finds your plot holes, a line producer who pressure-tests your schedule, a script reader who gives you real Hollywood coverage, a rights clearance officer who scans for legal exposure, and a festival strategist who routes your finished film to the right markets.
 
-**19 skills. 7 production stages. Full pipeline from logline to distribution.**
+**23 skills. 7 production stages. Full pipeline from logline to distribution.**
 
 ---
 
@@ -25,25 +25,28 @@ Each skill feeds into the next. `/pitch-room` writes a creative brief that `/cov
 
 | Stage | Skill | Role | What it does |
 |---|---|---|---|
+| **Development** | `/logline` | Story Consultant | Logline workshop — iterative refinement toward a single sentence that sells the film |
 | **Development** | `/pitch-room` | Story Executive | Six forcing questions that challenge your concept before you write a word |
+| **Development** | `/series-bible` | TV Writer / Showrunner | TV series bible structure — premise, characters, season arc, episode concepts, ongoing potential |
 | **Development** | `/coverage` | Script Reader | Hollywood-standard coverage: Logline, Synopsis, Comments, Pass/Consider/Recommend |
 | **Development** | `/script-doctor` | Story Editor | Find plot holes, broken character arcs, pacing problems, and unmotivated choices |
 | **Development** | `/market-comp` | Development Executive | Comparable titles analysis — "A meets B" framing, box office comps, streaming benchmarks |
+| **Development** | `/pitch-deck` | Packaging Specialist | Investor and distributor pitch deck — 9-slide structure with seven-test review |
 | **Pre-Production** | `/breakdown` | 1st AD | Scene-by-scene breakdown: locations, cast, extras, props, VFX, special requirements |
 | **Pre-Production** | `/casting-breakdown` | Casting Director | Character breakdowns in Breakdown Express format, ready for submission |
 | **Pre-Production** | `/budget-review` | Line Producer | Budget feasibility, schedule risk, cost-per-day estimate, red flags |
+| **Pre-Production** | `/co-production` | Co-Production Consultant | International treaty eligibility, points test, financial split, territory benefits |
+| **Pre-Production** | `/wga-check` | Labor Consultant | WGA/SAG-AFTRA compliance scan — minimums, residuals, credit arbitration triggers |
+| **Pre-Production** | `/rights-clearance` | Entertainment Lawyer | E&O insurance pre-check — music, clearances, life rights, trademark exposure |
+| **Pre-Production** | `/taiwan-production` | Taiwan Production Consultant | 文化部輔導金, TAICCA, 金馬影展 strategy, OTT landscape, co-production eligibility |
+| **Post-Production** | `/adr-session` | Post Sound Supervisor | ADR session prep — cue sheet, actor scheduling, studio checklist, KDM-free |
 | **Post-Production** | `/picture-lock` | Post Supervisor | Picture lock checklist — delivery specs, VFX pulls, sound spotting, M&E requirements |
-| **Distribution** | `/festival-strategy` | Sales Agent | Festival routing strategy based on content type, budget, and target (awards vs. distribution) |
-| **Distribution** | `/rights-clearance` | Entertainment Lawyer | E&O insurance pre-check — music, clearances, life rights, trademark exposure |
-| **Development** | `/logline` | Story Consultant | Logline workshop — iterative refinement toward a single sentence that sells the film |
-| **Development** | `/series-bible` | TV Writer / Showrunner | TV series bible structure — premise, characters, season arc, episode concepts, ongoing potential |
-| **Distribution** | `/pitch-deck` | Packaging Specialist | Investor and distributor pitch deck — 9-slide structure with seven-test review |
-| **Production** | `/adr-session` | Post Sound Supervisor | ADR session prep — cue sheet, actor scheduling, studio checklist, KDM-free |
 | **Post-Production** | `/dcp-delivery` | Digital Cinema Specialist | DCP creation, encryption, KDM management, theatrical delivery checklist |
-| **Distribution** | `/co-production` | Co-Production Consultant | International treaty eligibility, points test, financial split, territory benefits |
+| **Distribution** | `/music-licensing` | Music Supervisor | Two-license rule, sync vs. master clearance, PRO registration, cue sheet requirements |
+| **Distribution** | `/distribution-deal` | Sales Agent / Entertainment Lawyer | Distribution term sheet review — MG, P&A commitment, holdback windows, net profits |
+| **Distribution** | `/festival-strategy` | Sales Agent | Festival routing strategy based on content type, budget, and target (awards vs. distribution) |
 | **Distribution** | `/press-kit` | Unit Publicist | EPK structure — synopsis, director statement, production notes, asset list |
-| **Taiwan** | `/taiwan-production` | Taiwan Production Consultant | 文化部輔導金, TAICCA, 金馬影展 strategy, OTT landscape, co-production eligibility |
-| **Power Tools** | `/wga-check` | Labor Consultant | WGA/SAG-AFTRA compliance scan — minimums, residuals, credit arbitration triggers |
+| **Distribution** | `/korea-production` | Korea Production Consultant | KOFIC funding, BIFF strategy, Korean OTT landscape, Korea-Taiwan co-production framework |
 | **Power Tools** | `/retro` | Producer | Production retrospective — budget variance, schedule drift, what to do differently |
 
 ---

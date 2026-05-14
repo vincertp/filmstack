@@ -293,3 +293,79 @@ ATL costs are typically negotiated; BTL costs are more predictable and form the 
 **金馬與國際影展的時序策略**: 金馬影展希望台灣電影優先在台灣有首映機會，這與走 Sundance / Berlin 等大展的國際策略有潛在衝突。Skill 把這個張力作為策略考量點提出，而非規定答案——因為正確選擇取決於每個計畫的具體目標。
 
 **Output**: 儲存至 `.filmstack/taiwan-production-[date].md`。內容以繁體中文書寫，符合台灣業界的工作語言習慣。
+
+---
+
+## /music-licensing
+
+### Philosophy
+
+Music clearance is the single most common reason independent films stall at the finish line. The skill exists to make the two-license rule instinctive and to front-load clearance decisions into pre-production rather than discovery.
+
+### The two-license rule
+
+Every pre-existing recorded song requires two separate licenses: a **sync license** from the publisher or composer (controlling the underlying composition/melody/lyrics) and a **master license** from the record label or artist (controlling the specific recording). Neither alone is sufficient. Many filmmakers clear one and assume they're covered.
+
+### Cost categories
+
+The skill structures music into five categories (A through E) with realistic cost ranges. Category C (library music, subscription-based) and Category E (original score, work-for-hire) are the only categories where clearance risk is fully eliminated at a predictable cost. Everything else carries rights uncertainty.
+
+### Licensing strategy
+
+Four strategies are presented: (1) clear everything upfront, (2) use temps then license on delivery, (3) library-only, (4) score-plus-selective-licensing. The skill helps the producer match strategy to budget and risk tolerance — not to their emotional attachment to specific songs.
+
+### E&O compliance output
+
+Every music-licensing analysis ends with an E&O readiness assessment because music is consistently the largest source of E&O insurance complications on independent films.
+
+---
+
+## /distribution-deal
+
+### Philosophy
+
+Net profits in film distribution are famous for never arriving. The skill treats distribution deal review as adversarial analysis — not because distributors are necessarily dishonest, but because the incentive structures of distribution deals systematically favor the distributor, and filmmakers who don't understand this lose money quietly.
+
+### The six pillars
+
+Every deal is analyzed across six dimensions: territory/rights scope, term length, MG structure, distribution fee by channel, expense recoupment waterfall, and holdback windows. The skill refuses to rate any single pillar in isolation — a generous MG with an uncapped P&A commitment and a hostile overhead charge is still a bad deal.
+
+### The waterfall
+
+The recoupment waterfall is the mechanism by which distributors legitimately earn nothing even when a film performs. The skill traces the standard waterfall step by step and identifies where filmmaker economics typically disappear — usually in the combination of distribution fee off gross + uncapped overhead charge.
+
+### Reversion rights
+
+The skill treats reversion rights as the filmmaker's primary long-term protection. A 20-year license with strong reversion triggers (non-release, bankruptcy, under-threshold earnings) is substantially better than a 10-year license with no reversion. This trade-off is consistently undervalued by first-time filmmakers.
+
+### Five predatory terms
+
+The skill identifies five specific clauses that appear frequently in distribution contracts and that filmmakers consistently fail to catch: perpetual universe-wide grants, MFN triggers, reserved rights traps, uncapped overhead, and missing audit rights. Each is explained with the specific modification to demand.
+
+---
+
+## /korea-production
+
+### Philosophy
+
+Korea's film industry is misread by international filmmakers in two directions: either as a monolithic studio system (CJ ENM, Netflix) or as an approachable festival circuit (BIFF). The skill insists on segmenting first — major studio, independent/art film, OTT-native, or international co-production — because the funding mechanisms, partnership structures, and distribution pathways are entirely different across segments.
+
+### KOFIC
+
+KOFIC (Korea Film Council) is Korea's primary public film support body. The skill presents KOFIC's programs realistically: amounts are modest relative to US standards (maximum KRW 200M, approximately USD $150K for the flagship production fund), review criteria favor established directors, and the 5% return-on-release clause is often overlooked in applications. KOFIC is a relationship institution — the skill notes that repeated applications build standing.
+
+### 국내영화 points test
+
+Korean national film qualification uses a 15-point system. The skill presents the full points table because international co-productions must understand which elements contribute Korean points. A Korean lead actor (2 points) plus Korean production company (2 points) plus Korean spend (2 points each for principal photography and post) can reach the 8-point minimum even with a foreign director.
+
+### BIFF strategy
+
+The skill distinguishes between BIFF as a festival premiere venue and BIFF as a market (ACFM / Asian Project Market). For Korean independent films, BIFF world premiere is the standard launch path. For international films targeting Korean distribution, the APM development market is more valuable than a showcase screening. The skill advises against BIFF as a world premiere if a top-tier European competition is achievable.
+
+### OTT landscape
+
+The Korean OTT table distinguishes between global rights deals (Netflix, Disney+) and Korea-only license deals (Tving, Wavve, Watcha). This distinction is critical for international filmmakers: Netflix Korea acquiring a project means giving up all international rights. Tving or Wavve acquiring Korea-only leaves international rights free for festival and foreign sales.
+
+### Korea-Taiwan co-production
+
+As of 2025, no formal bilateral treaty exists, but the KOFIC-TAICCA MOU (2023) creates a facilitated pathway. The skill calculates how a well-structured project can access both KOFIC's international co-production fund and TAICCA's investment simultaneously — potentially covering 20–40% of a mid-range independent feature budget from public funds alone.
